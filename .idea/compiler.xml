@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="javaBase" />
         <module name="javaProject01" />
+        <module name="javaProject02" />
       </profile>
     </annotationProcessing>
   </component>
