@@ -3,7 +3,7 @@ package com.alibaba.classOther.java;
 /*
  	关键字：final
  	
- 	[面试题] 请简述final关键字？
+ 	[思考] 请简述final关键字？
  	
  	final修饰类：final修饰的类不能被继承。比如 ：String,StringBuffer......
  	

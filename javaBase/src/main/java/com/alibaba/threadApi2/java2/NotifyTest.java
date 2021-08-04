@@ -8,7 +8,7 @@ wait()：令当前线程挂起并放弃CPU、同步资源，使别的线程可�
 notify()：唤醒正在排队等待同步资源的线程中优先级最高者结束等待
 notifyAll ()：唤醒正在排队等待资源的所有线程结束等待
 
-[面试题]sleep和wait的区别？
+[思考]sleep和wait的区别？
 	1.sleep在睡着时不会释放锁，wait在睡着时会释放锁。
 	2.sleep是Thread中的方法，wait是Object中的方法。
 	3.sleep会自动唤醒，wait需要被notify/notifyAll唤醒。

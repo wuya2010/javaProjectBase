@@ -59,7 +59,7 @@ public class LambdaTest2 {
 		
 		System.out.println("---------------------------------------------------");
 		
-		TreeSet<Person> set = new TreeSet<>();
+		TreeSet<Person> set = new TreeSet<>(comparator);
 		set.add(new Person("aaa", 18));
 		set.add(new Person("ccc", 28));
 		set.add(new Person("bbb", 38));

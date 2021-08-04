@@ -13,7 +13,7 @@ import org.junit.Test;
  		5.字符串的底层是一个char[]且该数组被final所修饰。
  		6.字符串是一个不可变的字符序列。
  		
- 	[面试题] String s = new String("xyz") 在内存中开辟了几块内存（创建了几个对象）？
+ 	[思考] String s = new String("xyz") 在内存中开辟了几块内存（创建了几个对象）？
  	
  	
  	

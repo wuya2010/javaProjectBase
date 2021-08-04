@@ -14,7 +14,7 @@ import org.junit.Test;
 public class ListTest {
 	
 	/*
-	 * [面试题]
+	 * [思考]
 	 */
 	@Test
 	public void test3(){

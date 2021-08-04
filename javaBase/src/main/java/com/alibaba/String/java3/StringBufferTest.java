@@ -7,7 +7,7 @@ import org.junit.Test;
 /*
  	StringBuffer和StringBuilder
  	
- 	一  [面试题]String,StringBuffer,StringBuilder的区别?
+ 	一  [思考]String,StringBuffer,StringBuilder的区别?
  	
 	 	String : 不可变的字符序列，底层是一个char[]被final修饰，
 	 	StringBuffer : 可变的字符序列，底层是一个char[],线程安全的，效率低一些

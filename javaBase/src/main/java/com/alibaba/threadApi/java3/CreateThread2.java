@@ -10,7 +10,7 @@ package com.alibaba.threadApi.java3;
  	6.调用start方法
  	
  	
- 	[面试题]继承Thread和实现Runnable谁更好？
+ 	[思考]继承Thread和实现Runnable谁更好？
  		1.单继承多实现的角度 ： 实现Runnable的方式更好一些。
  		2.共享数据的角度 ： 
  			继承Thread的方式，类中的共享数据必须使用static修饰，用来保证多个对象操作的是同一份数据
